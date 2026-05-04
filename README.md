@@ -8,3 +8,4 @@ This needs to be downloaded at first for smooth working:
 3.react-dom
 4.leaflet
 5.react-leaflet
+To start first download the app req by the easy command "npx create-next-app@latest" then add the 3 given files under the /app

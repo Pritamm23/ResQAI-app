@@ -121,7 +121,7 @@ export default function Home() {
         setLocation(userLoc);
         setAlertSent(true);
 
-        const emergencyNumber = "919830390426";
+        const emergencyNumber = "91XXXXXXXXXX";  //use ur own whatsapp number u want to send the message to
 
         const message =
           `🚨 ResQAI ALERT!\n` +
